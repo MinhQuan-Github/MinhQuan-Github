@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **minhquan.5322@aol.com**
 
-- 📄 Know about my experiences: I have nearly 1 and a half years of ios application development experience and nearly 6 months of experience working in a corporate environment, and i have nearly 1 and a half years of ios application development experience and nearly 6 months of experience working in a corporate environment.
+- 📄 Know about my experiences: I have nearly 1 and a half years of ios application development experience and nearly 6 months of experience working in a corporate environment.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
