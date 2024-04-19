@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/minhquan5322" target="blank"><img src="https://img.shields.io/twitter/follow/minhquan5322?logo=twitter&style=for-the-badge" alt="minhquan5322" /></a> </p>
 
 <a href="https://cognitiveclass.ai/">
-    <img src="https://www.appdev360.com/wp-content/uploads/2021/02/gif-app-development-on-android.gif" width="500" align="right">
+    <img src="https://www.appdev360.com/wp-content/uploads/2021/02/gif-app-development-on-android.gif" width="400" align="right">
 </a>
 
 
